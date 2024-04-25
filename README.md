@@ -6,6 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=2000&pause=1000&color=F74B1A&center=true&random=false&width=435&lines=Data+Analyst;Data+Scientist;Automation+Programmer" alt="Typing SVG" /></a>
 </p>
 
+<img src="https://res.cloudinary.com/drzumfcdp/image/upload/v1714019609/Landing%20Page%20Sebastian/Portado_GitHub_y4mzdn.png"/>
+
 [![LinkedIn Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianurdaneguibisalaya/)
 
 ## **Sobre mí**
