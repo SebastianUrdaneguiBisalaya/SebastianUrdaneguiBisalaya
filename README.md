@@ -14,9 +14,9 @@
 
 ## **GitHub Analytics**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianUrdaneguiBisalaya&show_icons=true&theme=dark&locale=en&layout=compact" alt="SebastianUrdaneguiBisalaya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianUrdaneguiBisalaya&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="SebastianUrdaneguiBisalaya" /></p>
 <br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SebastianUrdaneguiBisalaya&show_icons=true&theme=dark&locale=en" alt="SebastianUrdaneguiBisalaya" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SebastianUrdaneguiBisalaya&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="SebastianUrdaneguiBisalaya" /></p>
 
 <br><br><br><br><br><br><br><br>
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=La+verdad+sólo+se+puede+encontrar+en+un+lugar:+el+código&border=True?theme=monokai&author=Robert+C.+Martin)
