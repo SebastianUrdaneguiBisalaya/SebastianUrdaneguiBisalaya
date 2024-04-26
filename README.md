@@ -9,6 +9,12 @@
 <img src="https://res.cloudinary.com/drzumfcdp/image/upload/v1714019609/Landing%20Page%20Sebastian/Portado_GitHub_y4mzdn.png"/>
 
 [![LinkedIn Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianurdaneguibisalaya/)
+<a href="https://medium.com/@sebasurdanegui">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-%23000000.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 ## **Sobre mí**
 
