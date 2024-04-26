@@ -34,6 +34,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-figma-3628771-3030133.png" alt="react" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
 ## **Proyectos**
