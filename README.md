@@ -1,53 +1,42 @@
 <div align="center">
-    <h1 align="center">Hola, soy <a href="#">Sebas Urdanegui</a>👋</h1>
+    <h1 align="center">I'm <a href="#">Sebastian Urdanegui</a>👋</h1>
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=2000&pause=1000&color=F74B1A&center=true&random=false&width=435&lines=Data+Analyst;Data+Scientist;Automation+Programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=2000&pause=1000&color=3B83BD&center=true&random=false&width=435&lines=Data+Analyst;Data+Scientist;Full-stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://res.cloudinary.com/drzumfcdp/image/upload/v1714019609/Landing%20Page%20Sebastian/Portado_GitHub_y4mzdn.png"/>
+Full Stack Web Developer with 6+ months of experience building
+dynamic, responsive, and scalable web and mobile solutions.
 
-[![LinkedIn Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianurdaneguibisalaya/)
-<a href="https://medium.com/@sebasurdanegui">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/jupyter-%23000000.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+Data Analyst with 2+ years of experience in statistical analysis, data
+visualization, and process automation. Proficient in tools such as Python
+(Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL, Tableau, and Power BI
+to transform large volumes of data into actionable insights that drive
+strategic decision-making.
 
+I have led the automation of financial reports and alerts in banking
+environments, and developed interactive dashboards that enhance the
+understanding of key performance indicators. Recognized in datathons
+for the quality of my analysis, I am passionate about analytics,
+continuous improvement, and generating value from data to boost
+organizational efficiency and growth.
 
-## **Sobre mí**
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianurdaneguibisalaya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sebasurdanegui) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SebasUrdaneguiB) 
 
-## **Habilidades Tecnológicas** 
+### 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-<p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/drzumfcdp/image/upload/v1713505328/Landing%20Page%20Sebastian/3_wsmgfw.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/drzumfcdp/image/upload/v1713505612/Landing%20Page%20Sebastian/Logos_100_x_100_px_zfzjcp.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://powerbi.microsoft.com/es-es/desktop/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/drzumfcdp/image/upload/v1713505314/Landing%20Page%20Sebastian/8_zzjc77.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.js.org/astro.png" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-figma-3628771-3030133.png" alt="react" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SebastianUrdaneguiBisalaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-## **Proyectos**
+![](https://nirzak-streak-stats.vercel.app/?user=SebastianUrdaneguiBisalaya&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianUrdaneguiBisalaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## **GitHub Analytics**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SebastianUrdaneguiBisalaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianUrdaneguiBisalaya&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="SebastianUrdaneguiBisalaya" /></p>
-<br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SebastianUrdaneguiBisalaya&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="SebastianUrdaneguiBisalaya" /></p>
-
-
-<br><br><br><br><br><br><br><br>
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=La+verdad+sólo+se+puede+encontrar+en+un+lugar:+el+código&border=True?theme=monokai&author=Robert+C.+Martin)
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=SebastianUrdaneguiBisalaya&icon=0&color=0)](https://visitcount.itsvg.in)
