@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=2000&pause=1000&color=3B83BD&center=true&random=false&width=435&lines=Data+Analyst;Data+Scientist;Full-stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-Full Stack Web Developer with 6+ months of experience building
+Full Stack Web Developer with 2+ years of experience building
 dynamic, responsive, and scalable web and mobile solutions.
 
 Data Analyst with 2+ years of experience in statistical analysis, data
