@@ -6,6 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=2000&pause=1000&color=3B83BD&center=true&random=false&width=435&lines=Data+Analyst;Data+Scientist;Full-stack+Developer" alt="Typing SVG" /></a>
 </p>
 
+👉🏻 [Visit my website](https://sebastianurdanegui.vercel.app/)
+
 Full Stack Web Developer with 2+ years of experience building
 dynamic, responsive, and scalable web and mobile solutions.
 
@@ -21,6 +23,18 @@ understanding of key performance indicators. Recognized in datathons
 for the quality of my analysis, I am passionate about analytics,
 continuous improvement, and generating value from data to boost
 organizational efficiency and growth.
+
+### 🚀 Latest Projects:
+
+- **[aiblabla.com](https://aiblabla.com)** - Understand, translate, and formulate clear and effective responses in real time, regardless of the situation.
+
+- **[suscripto.manager](https://github.com/SebastianUrdaneguiBisalaya/suscripto.manager)** - Manage your suscriptions in one place.
+
+- **[emotify.ai](https://github.com/SebastianUrdaneguiBisalaya/emotify.ai)** - Web application to generate a list of songs that the agent recommends based on your preferences or feelings and create a Spotify playlist in your account from these recommended songs.
+
+- **[kooko.ai - Front-end](https://github.com/SebastianUrdaneguiBisalaya/kooko-ai-frontend)** - Web platform designed to visualize and manage financial data extracted from receipts and invoices.
+
+- **[kooko.ai - Back-end](https://github.com/SebastianUrdaneguiBisalaya/kooko-ai-backend)**
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianurdaneguibisalaya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sebasurdanegui) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SebasUrdaneguiB) 
