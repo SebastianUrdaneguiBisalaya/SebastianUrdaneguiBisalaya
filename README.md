@@ -26,6 +26,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[uikitly-react](https://www.npmjs.com/package/uikitly-react)** - A TypeScript library that provides two customizable react components inspired by GitHub's contribution tracker and status tracking chart. Both components support light and dark themes out of the box, allowing you to easily adapt them to your design preferences.
+
 - **[aiblabla.com](https://aiblabla.com)** - Understand, translate, and formulate clear and effective responses in real time, regardless of the situation.
 
 - **[suscripto.manager](https://github.com/SebastianUrdaneguiBisalaya/suscripto.manager)** - Manage your suscriptions in one place.
