@@ -8,7 +8,7 @@
 
 👉🏻 [Visit my website](https://sebastianurdanegui.com/)
 
-Full Stack Web Developer with 2+ years of experience building
+Full Stack Web Developer with 3+ years of experience building
 dynamic, responsive, and scalable web and mobile solutions.
 
 Data Analyst with 2+ years of experience in statistical analysis, data
