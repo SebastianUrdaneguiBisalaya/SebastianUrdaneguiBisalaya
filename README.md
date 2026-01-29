@@ -9,7 +9,7 @@
 👉🏻 [Visit my website](https://sebastianurdanegui.com/)
 
 Full Stack Web Developer with 3+ years of experience building
-dynamic, responsive, and scalable web and mobile solutions.
+dynamic, responsive, and scalable web and mobile solutions using technologies such as JavaScript, TypeScript, TailwindCSS, React, Next.js, React Native, Expo, Node.js, Express.js, Nest.js, SQL, Python, FastAPI, Git and more.
 
 Data Analyst with 2+ years of experience in statistical analysis, data
 visualization, and process automation. Proficient in tools such as Python
