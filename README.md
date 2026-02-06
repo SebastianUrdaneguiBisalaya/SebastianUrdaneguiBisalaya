@@ -26,7 +26,7 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
-- **[vibeHooks](https://github.com/SebastianUrdaneguiBisalaya/vibehooks)** - 👷🏼‍♂️ **Developing** a modern React and Next.js hooks, unopinionated and focused on developer experience.
+- **[vibeHooks](https://vibehooks.sebastianurdanegui.com)** - 👷🏼‍♂️ **Developing** a modern React and Next.js hooks, unopinionated and focused on developer experience.
 
 - **[uikitly-react](https://www.npmjs.com/package/uikitly-react)** - A TypeScript library that provides two customizable react components inspired by GitHub's contribution tracker and status tracking chart. Both components support light and dark themes out of the box, allowing you to easily adapt them to your design preferences.
 
