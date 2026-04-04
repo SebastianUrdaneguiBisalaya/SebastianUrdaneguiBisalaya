@@ -26,6 +26,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[vaultgen-cli](https://github.com/SebastianUrdaneguiBisalaya/vaultgen-cli)** - A minimalist CLI password manager secured with local master key encryption and seamless clipboard integration.
+
 - **[vibeHooks](https://vibehooks.sebastianurdanegui.com)** - 👷🏼‍♂️ A modern React and Next.js hooks, unopinionated and focused on developer experience.
 
 - **[uikitly-react](https://www.npmjs.com/package/uikitly-react)** - A TypeScript library that provides two customizable react components inspired by GitHub's contribution tracker and status tracking chart. Both components support light and dark themes out of the box, allowing you to easily adapt them to your design preferences.
