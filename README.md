@@ -26,6 +26,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[upflowi](https://github.com/SebastianUrdaneguiBisalaya/upflowi)** - Upflowi orchestrates uploads — concurrency, chunking, multipart, retries, progress, pause/resume, cancellation, and resumable persistence — without shipping a UI, without locking you into one storage backend, and without ever seeing your cloud credentials.
+
 - **[vaultgen-cli](https://github.com/SebastianUrdaneguiBisalaya/vaultgen-cli)** - A minimalist CLI password manager secured with local master key encryption and seamless clipboard integration.
 
 - **[vibeHooks](https://vibehooks.sebastianurdanegui.com)** - 👷🏼‍♂️ A modern React and Next.js hooks, unopinionated and focused on developer experience.
