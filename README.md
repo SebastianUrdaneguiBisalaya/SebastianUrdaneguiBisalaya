@@ -26,6 +26,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[usegridless](https://github.com/SebastianUrdaneguiBisalaya/usegridless)** - A headless, programmable layout engine for React, designed primarily for interactive dashboard builders and AI-generated dashboards, but intentionally domain-agnostic. 
+
 - **[upflowi](https://github.com/SebastianUrdaneguiBisalaya/upflowi)** - Upflowi orchestrates uploads — concurrency, chunking, multipart, retries, progress, pause/resume, cancellation, and resumable persistence — without shipping a UI, without locking you into one storage backend, and without ever seeing your cloud credentials.
 
 - **[vaultgen-cli](https://github.com/SebastianUrdaneguiBisalaya/vaultgen-cli)** - A minimalist CLI password manager secured with local master key encryption and seamless clipboard integration.
