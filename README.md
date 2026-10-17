@@ -26,6 +26,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[useguardrail](https://github.com/SebastianUrdaneguiBisalaya/useguardrail)** - A frontend-first, framework-independent authorization SDK for TypeScript. Describe who can do what with RBAC, ABAC, and ReBAC, evaluate it synchronously in the browser or in Node, and keep your UI in sync through a small reactive store.
+
 - **[upflowi](https://github.com/SebastianUrdaneguiBisalaya/upflowi)** - Upflowi orchestrates uploads — concurrency, chunking, multipart, retries, progress, pause/resume, cancellation, and resumable persistence — without shipping a UI, without locking you into one storage backend, and without ever seeing your cloud credentials.
 
 - **[vaultgen-cli](https://github.com/SebastianUrdaneguiBisalaya/vaultgen-cli)** - A minimalist CLI password manager secured with local master key encryption and seamless clipboard integration.
