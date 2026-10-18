@@ -26,6 +26,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[usehotkeys](https://github.com/SebastianUrdaneguiBisalaya/usehotkeys)** - Keyboard shortcuts for the web that stay out of your way: combos, scopes, priorities and conflict resolution, in a framework-agnostic core with React bindings.
+
 - **[useguardrail](https://github.com/SebastianUrdaneguiBisalaya/useguardrail)** - A frontend-first, framework-independent authorization SDK for TypeScript. Describe who can do what with RBAC, ABAC, and ReBAC, evaluate it synchronously in the browser or in Node, and keep your UI in sync through a small reactive store.
 
 - **[upflowi](https://github.com/SebastianUrdaneguiBisalaya/upflowi)** - Upflowi orchestrates uploads — concurrency, chunking, multipart, retries, progress, pause/resume, cancellation, and resumable persistence — without shipping a UI, without locking you into one storage backend, and without ever seeing your cloud credentials.
