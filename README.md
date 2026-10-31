@@ -26,6 +26,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[useshortly](https://github.com/SebastianUrdaneguiBisalaya/useshortly)** - Open source, self-hosted alternative to Bitly: a URL shortener you run on your own infrastructure and fully control.
+
 - **[usehotkeys](https://github.com/SebastianUrdaneguiBisalaya/usehotkeys)** - Keyboard shortcuts for the web that stay out of your way: combos, scopes, priorities and conflict resolution, in a framework-agnostic core with React bindings.
 
 - **[useguardrail](https://github.com/SebastianUrdaneguiBisalaya/useguardrail)** - A frontend-first, framework-independent authorization SDK for TypeScript. Describe who can do what with RBAC, ABAC, and ReBAC, evaluate it synchronously in the browser or in Node, and keep your UI in sync through a small reactive store.
