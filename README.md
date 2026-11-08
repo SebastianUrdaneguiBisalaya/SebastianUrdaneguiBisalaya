@@ -26,7 +26,9 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
-- **[useshortly](https://github.com/SebastianUrdaneguiBisalaya/useshortly)** - Open source, self-hosted alternative to Bitly: a URL shortener you run on your own infrastructure and fully control.
+- **[gonche](https://github.com/SebastianUrdaneguiBisalaya/usegonche)** - Get Organized, Never Compromise, Hustle Efficiently. A personal productivity app for a single user: it turns messy work into concrete, executable progress and helps decide what to do, when and how.
+
+- **[shortly](https://github.com/SebastianUrdaneguiBisalaya/useshortly)** - Open source, self-hosted alternative to Bitly: a URL shortener you run on your own infrastructure and fully control.
 
 - **[usehotkeys](https://github.com/SebastianUrdaneguiBisalaya/usehotkeys)** - Keyboard shortcuts for the web that stay out of your way: combos, scopes, priorities and conflict resolution, in a framework-agnostic core with React bindings.
 
