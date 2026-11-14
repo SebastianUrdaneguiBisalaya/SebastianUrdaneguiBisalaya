@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">I'm <a href="#">Sebastian Urdanegui</a>👋</h1>
+    <h1 align="center">I'm Sebastian Urdanegui 👋</h1>
 </div>
 
 👉🏻 [Visit my website](https://sebastianurdanegui.com/)
