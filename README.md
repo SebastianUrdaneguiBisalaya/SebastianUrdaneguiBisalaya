@@ -2,10 +2,6 @@
     <h1 align="center">I'm <a href="#">Sebastian Urdanegui</a>👋</h1>
 </div>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=2000&pause=1000&color=3B83BD&center=true&random=false&width=435&lines=Data+Analyst;Data+Scientist;Full-stack+Developer" alt="Typing SVG" /></a>
-</p>
-
 👉🏻 [Visit my website](https://sebastianurdanegui.com/)
 
 Full Stack Web Developer with 3+ years of experience building
