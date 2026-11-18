@@ -22,6 +22,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[tempi](https://github.com/SebastianUrdaneguiBisalaya/tempi)** - A local-first desktop calendar for macOS, Windows and Linux. No account, no cloud, no tracking: your calendars live in a database on your own computer, and Tempi works the same with or without a connection.
+
 - **[gonche](https://github.com/SebastianUrdaneguiBisalaya/usegonche)** - Get Organized, Never Compromise, Hustle Efficiently. A personal productivity app for a single user: it turns messy work into concrete, executable progress and helps decide what to do, when and how.
 
 - **[shortly](https://github.com/SebastianUrdaneguiBisalaya/useshortly)** - Open source, self-hosted alternative to Bitly: a URL shortener you run on your own infrastructure and fully control.
