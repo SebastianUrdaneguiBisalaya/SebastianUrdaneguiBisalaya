@@ -22,6 +22,10 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[usecalendar](https://github.com/SebastianUrdaneguiBisalaya/usecalendar)** - A prop-driven, Google Calendar-style calendar component for React, built with Tailwind CSS v4. Business-logic agnostic, fully customizable, and designed for seamless integration.
+
+- **[usesounds](https://github.com/SebastianUrdaneguiBisalaya/usesounds)** - Tiny, synthesized UI sounds for React and the web. Ticks, pops, taps, toggles and success/error cues, generated live with the Web Audio API.
+
 - **[tempi](https://github.com/SebastianUrdaneguiBisalaya/tempi)** - A local-first desktop calendar for macOS, Windows and Linux. No account, no cloud, no tracking: your calendars live in a database on your own computer, and Tempi works the same with or without a connection.
 
 - **[gonche](https://github.com/SebastianUrdaneguiBisalaya/usegonche)** - Get Organized, Never Compromise, Hustle Efficiently. A personal productivity app for a single user: it turns messy work into concrete, executable progress and helps decide what to do, when and how.
