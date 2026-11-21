@@ -22,6 +22,10 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[skillstack](https://github.com/SebastianUrdaneguiBisalaya/skillstack)** - A personal hub of agent skills, designed for my own workflow and installable into several coding agents (Claude Code, Codex, Cursor, Gemini).
+
+- **[usemeshly](https://github.com/SebastianUrdaneguiBisalaya/usemeshly)** - Typed, storage-free SDKs for third-party integrations, with authentication shared across all of them.
+
 - **[usecalendar](https://github.com/SebastianUrdaneguiBisalaya/usecalendar)** - A prop-driven, Google Calendar-style calendar component for React, built with Tailwind CSS v4. Business-logic agnostic, fully customizable, and designed for seamless integration.
 
 - **[usesounds](https://github.com/SebastianUrdaneguiBisalaya/usesounds)** - Tiny, synthesized UI sounds for React and the web. Ticks, pops, taps, toggles and success/error cues, generated live with the Web Audio API.
