@@ -22,6 +22,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[useweather](https://github.com/SebastianUrdaneguiBisalaya/useweather)** - Animated weather backgrounds for the web. Drifting clouds, falling rain and snow, a glowing sun, a realistic moon and twinkling stars. Pass a condition through props and get a full-screen animated sky behind your UI.
+
 - **[skillstack](https://github.com/SebastianUrdaneguiBisalaya/skillstack)** - A personal hub of agent skills, designed for my own workflow and installable into several coding agents (Claude Code, Codex, Cursor, Gemini).
 
 - **[usemeshly](https://github.com/SebastianUrdaneguiBisalaya/usemeshly)** - Typed, storage-free SDKs for third-party integrations, with authentication shared across all of them.
