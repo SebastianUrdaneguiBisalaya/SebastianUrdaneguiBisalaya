@@ -22,6 +22,8 @@ organizational efficiency and growth.
 
 ### 🚀 Latest Projects:
 
+- **[useblocknotes](https://github.com/SebastianUrdaneguiBisalaya/useblocknotes)** - An open-source (MIT) Notion-style block editor built on Tiptap core, with AI responses streamed live into the editor.
+
 - **[useweather](https://github.com/SebastianUrdaneguiBisalaya/useweather)** - Animated weather backgrounds for the web. Drifting clouds, falling rain and snow, a glowing sun, a realistic moon and twinkling stars. Pass a condition through props and get a full-screen animated sky behind your UI.
 
 - **[skillstack](https://github.com/SebastianUrdaneguiBisalaya/skillstack)** - A personal hub of agent skills, designed for my own workflow and installable into several coding agents (Claude Code, Codex, Cursor, Gemini).
